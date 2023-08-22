@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# SQLite databases
+.db/
+*.db
+
+# Logs
+*.log
+
+# Dependency directories
+/dist/
+/coverage/
+/.nyc_output/
+/.idea/
+
+# Editor directories
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Compiled binary addons
+/build/Release
+
+# Mac specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE settings
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
